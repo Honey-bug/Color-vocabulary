@@ -1,0 +1,31 @@
+.color-title {
+  font-weight: normal;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
+#red {
+  color: red;
+}
+#blue {
+  color: blue;
+}
+#orange {
+  color: orange;
+}
+#green {
+  color: green;
+}
+#yellow {
+  color: yellow;
+}
+.class {
+  font-family: "Rubik Mono One", monospace;
+}
+* {
+  text-align: center;
+}
+#click{
+  background-color: turquoise;
+}
